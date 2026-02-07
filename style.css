@@ -34,7 +34,7 @@
   --default-transition-duration: .15s;
   --default-transition-timing-function: cubic-bezier(.4, 0, .2, 1);
   --color-background-main: lab(2.42579% -.165291 -.470081);
-  --background-image: url("bg-dark.svg");
+  --background-image: url("/bg-dark.svg");
   --color-background-invert: lab(100% 0 0);
   --color-text-main: lab(100% 0 0);
   --color-text-invert: lab(2.42579% -.165291 -.470081);
